@@ -1,0 +1,87 @@
+# EXTM3U
+
+#EXTINF: -1 tvg-ID = "YCJ.HK" tvg-logo = "http://utvhk.com/maint/images/channel/be75ddf0144b7fccdd03bf8016a61f64.png" tvg-name = "有線 财经 资讯" group-title = "Hong Kong", 有線 財經 資訊 台 HD
+http://livetv.dnsfor.me:80/channel.6.m3u8
+#EXTINF: -1 tvg-ID = "YXW.HK" tvg-logo = "http://utvhk.com/maint/images/channel/d116ecd633cdbff96b0a91867d4f7f8c.png" tvg-name = "有線 新闻" group-title = " Hong Kong ", 有線 新聞 台 HD
+http://livetv.dnsfor.me:80/channel.5.m3u8
+#EXTINF: -1 tvg-ID = "YYL.HK" tvg-logo = "http://utvhk.com/maint/images/channel/7ac969f6ec0ff483fcb34b05a257d7d1.png" tvg-name = "有線 綜合 娛樂 台" group-title = "Hong Kong", 有線 綜合 娛樂 台 HD
+http://livetv.dnsfor.me:80/channel.7.m3u8
+#EXTINF: -1 group-title = "Hong Kong" tvg-name = "翡翠台" tvg-logo = "http://epg.51zmt.top:8000/tb1/gt/TVB 翡翠台 .png", TVB 翡翠台
+http://livetv.dnsfor.me:80/channel.18.m3u8
+#EXTINF: -1 group-title = "Hong Kong" tvg-name = "Hong Kong 开 电视" tvg-logo = "http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png", Hong Kong K 电视
+http://livetv.dnsfor.me:80/channel.9.m3u8
+#EXTINF: -1 group-title = "Hong Kong" tvg-name = "RHK31", RHK31
+http://livetv.dnsfor.me:80/channel.1.m3u8
+#EXTINF: -1 group-title = "Hong Kong" tvg-name = "RHK32", RHK32
+http://livetv.dnsfor.me:80/channel.2.m3u8
+#EXTINF: -1 tvg-id = "WXX.HK" tvg-logo = "https://plus.tvbanywhere.com/img/logo_tvb_news.png" group-title = "Hong Kong", 無綫 新聞 台
+http://livetv.dnsfor.me:80/channel.10.m3u8
+#EXTINF: -1 título de grupo = "Hong Kong", 無綫 財經 資訊 台
+http://livetv.dnsfor.me:80/channel.11.m3u8
+
+
+
+#EXTINF: -1 tvg-ID = "HBOE" tvg-name = "HBO (Este)" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg /500px-HBO_logo.svg.png "group-title =" MOVIE ", HBO (Este)
+https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
+#EXTINF: -1 tvg-ID = "HBOW" tvg-name = "HBO (Oeste)" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg /500px-HBO_logo.svg.png "group-title =" MOVIE ", HBO (Oeste)
+https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
+#EXTINF: -1 tvg-ID = "CINE" tvg-name = "Cinemax (Este)" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow % 29.svg / 500px-Cinemax_% 28Yellow% 29.svg.png "group-title =" MOVIE ", Cinemax (Este)
+https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
+#EXTINF: -1 tvg-ID = "CINW" tvg-name = "Cinemax (West)" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow % 29.svg / 500px-Cinemax_% 28Yellow% 29.svg.png "group-title =" MOVIE ", Cinemax (Oeste)
+https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
+#EXTINF: -1 tvg-ID = "SHOE" tvg-name = "Showtime (East)" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg /500px-Showtime.svg.png "group-title =" MOVIE ", Showtime (Este)
+https://edge.roku-live.top.comcast.net/out/u/showtime-east.m3u8
+#EXTINF: -1 tvg-ID = "MOSTRAR" tvg-name = "Showtime (West)" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg /500px-Showtime.svg.png "group-title =" MOVIE ", Showtime (Oeste)
+https://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8
+
+#EXTINF: -1 tvg-ID = "STAW" tvg-name = "STARZ (Oeste)" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg /500px-Starz_2016.svg.png "group-title =" MOVIE ", STARZ (Oeste)
+https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8
+#EXTINF: -1 tvg-ID = "STAE" tvg-name = "STARZ (East)" tvg-logo = "https://www.pngkey.com/png/full/335-3358841_the-previous-logos-were -introduced-in-2005-as.png "group-title =" MOVIE ", STARZ (Este)
+https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
+#EXTINF: -1 tvg-ID = "EPIE" tvg-name = "Epix (Este)" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg /500px-Epix_Logo_2009.svg.png "group-title =" MOVIE ", Epix (Este)
+https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
+#EXTINF: -1 tvg-ID = "EPIE2" tvg-name = "Epix 2 (Este)" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009. svg / 500px-Epix_Logo_2009.svg.png "group-title =" MOVIE ", Epix 2 (Este)
+https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
+
+#EXTINF: -1 tvg-logo = "https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title = "MOVIE", 217 Stirr | El asilo
+https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
+#EXTINF: -1 tvg-logo = "https://i.imgur.com/UkcgDgO.jpg" group-title = "MOVIE" y Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "http://mhdtvworld.com/wp-content/uploads/2018/12/MNX.png" group-title = "MOVIE ", MNX
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title = "MOVIE ", Películas ahora
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+
+#EXTINF: -1 tvg-logo = "https://i.imgur.com/bPQkvtO.jpg" group-title = "MOVIE", 24 Box TV
+http://51.158.190.97/hls/stream.m3u8
+
+#EXTINF: -1 tvg-id = "ES2.US" tvg-logo = "" tvg-name = "ESPN2" group-title = "SPORT", ESPN 2
+https://gma2.blab.email/espn2.m3u8
+#EXTINF: -1 tvg-id = "ESU.US" tvg-logo = "" tvg-name = "ESPN U" group-title = "SPORT", ESPN U
+https://gma2.blab.email/espnu.m3u8 
+#EXTINF: -1 tvg-id = "ESN.US" tvg-logo = "" tvg-name = "Noticias ESPN" group-title = "SPORT", Noticias ESPN
+https://gma2.blab.email/espnews.m3u8
+#EXTINF: -1 tvg-id = "" tvg-logo = "" tvg-name = "ESPN ACCN" group-title = "SPORT", ACC NETWORK
+https://gma2.blab.email/acc.m3u8 
+#EXTINF: -1 tvg-id = "" tvg-logo = "" tvg-name = "ESPN sec" group-title = "SPORT", SEC NETWORK
+https://gma2.blab.email/sec.m3u8
+#EXTINF: -1 tvg-id = "" tvg-logo = "" tvg-name = "ESPN FS2" group-title = "SPORT", ESPN 
+https://gma2.blab.email/fs2.m3u8
+#EXTINF: -1 tvg-id = "cbssportsnet.us" tvg-name = "CBS sports" group-title = "SPORT", CBS Sports HQ
+http://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
+
+
+#EXTINF: -1 group-title = "USA LOCAL" tvg-logo = "https://i.imgur.com/9xsosXt.png", Nueva York: CBS News
+https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+#EXTINF: -1 tvg-logo = "https://i.imgur.com/pMhTxmf.png" group-title = "USA LOCAL", CBS miami
+http://161.0.157.50/PLTV/88888888/224/3221227041/4.m3u8
+
+#EXTINF: -1 tvg-id = "WCBSNewYorkCBSEast.us" tvg-name = "CBS (EE.UU.)" tvg-logo = "https://www.thewrap.com/wp-content/uploads/2017/01/CBS -logo.jpg ", CBS (EE. UU.)
+http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
+#EXTINF: -1 tvg-name = "NBC (EE. UU.)" Tvg-logo = "https://designobserver.com/media/images/mondrian/39684-NBC_logo_m.jpg", NBC (EE. UU.)
+http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
+
+
+Http://u88.ee/Aj1
