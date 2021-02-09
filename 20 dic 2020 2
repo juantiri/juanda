@@ -1,25 +1,22 @@
 #EXTM3U
-#EXTINF:-1 group-title="Deportes",Fight Time
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
-#EXTINF:-1 ,hbo2 dual (eng esp) www.achoapps.com
-http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
-#EXTINF:-1 group-title="CINE",Fox Cinema www.achoapps.com
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
-#EXTINF:-1 group-title="Deportes",CDO Premium
-http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
-#EXTINF:-1 group-title="CINE",HBO 2 www.achoapps.com
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:-1 ,CARTOON NETWORK www.achoapps.com
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-#EXTINF:-1 ,MAXPRIME www.achoapps.com
-http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
-#EXTINF:-1 ,UNIVERSALCH www.achoapps.com
-http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
-#EXTINF:-1 ,fox premium comedy (eng) www.achoapps.com
-http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
-#EXTINF:-1 ,ESPN 2 www.achoapps.com
-http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:-1 ,Animal Planet www.achoapps.com
-http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
-#EXTINF:-1 group-title="USA TV",BRAVO
-http://161.0.157.7/PLTV/88888888/224/3221226804/03.m3u8
+#EXTINF:-1 group-title="informativo",ANIMAL PLANET
+http://tv.nousiptv.com:8080/dani123/dani123/3247
+#EXTINF:-1 group-title="informativo"- DISCOVERY  HOME & HEALTH
+http://tv.nousiptv.com:8080/dani123/dani123/3083
+#EXTINF:-1,MyC - DISCOVERY CHANNEL
+http://tv.nousiptv.com:8080/dani123/dani123/3251
+#EXTINF:-1,MyC - HGTV
+http://tv.nousiptv.com:8080/dani123/dani123/3252
+#EXTINF:-1,MyC - DISCOVERY ID
+http://tv.nousiptv.com:8080/dani123/dani123/4123
+#EXTINF:-1,MyC - DISCOVERY SCIENCE
+http://tv.nousiptv.com:8080/dani123/dani123/3082
+#EXTINF:-1,MyC - DISCOVERY THEATER
+http://tv.nousiptv.com:8080/dani123/dani123/4119
+#EXTINF:-1,MyC - DISCOVERY TLC
+http://tv.nousiptv.com:8080/dani123/dani123/3256
+#EXTINF:-1,MyC - DISCOVERY WORLD
+http://tv.nousiptv.com:8080/dani123/dani123/3081
+#EXTINF:-1,MYC - DISCOVERY  CIVILIZACIÓN
+http://tv.nousiptv.com:8080/dani123/dani123/6020
+#EXTINF:-1,MyC - DW LATINOAMERICA
