@@ -3,9 +3,9 @@
 http://tv.nousiptv.com:8080/dani123/dani123/3247
 #EXTINF:-1 group-title="informativo",DISCOVERY  HOME & HEALTH
 http://tv.nousiptv.com:8080/dani123/dani123/3083
-#EXTINF:-1,MyC - DISCOVERY CHANNEL
+#EXTINF:-1 group-title="informativo",DISCOVERY CHANNEL
 http://tv.nousiptv.com:8080/dani123/dani123/3251
-#EXTINF:-1,MyC - HGTV
+#EXTINF:-1 group-title="informativo",HGTV
 http://tv.nousiptv.com:8080/dani123/dani123/3252
 #EXTINF:-1,MyC - DISCOVERY ID
 http://tv.nousiptv.com:8080/dani123/dani123/4123
@@ -19,5 +19,3 @@ http://tv.nousiptv.com:8080/dani123/dani123/3256
 http://tv.nousiptv.com:8080/dani123/dani123/3081
 #EXTINF:-1,MYC - DISCOVERY  CIVILIZACIÓN
 http://tv.nousiptv.com:8080/dani123/dani123/6020
-#EXTINF:-1,MyC - DW LATINOAMERICA
-http://tv.nousiptv.com:8080/dani123/dani123/2102
