@@ -1,447 +1,161 @@
-  
 # EXTM3U
+ 
+#EXTINF: -1 tvg-chno = "9" tvg-id = "americatv.ar" tvg-logo = "https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title = "ARGENTINA", AMERICA TV
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+ 
+#EXTINF: -1 tvg-chno = "10" tvg-logo = "http://w2.junindelosandes.gov.ar/wp-content/uploads/2017/02/imagen-294.png" group-title = " ARGENTINA ", TV PUBLICA
+https://g3.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+ 
+#EXTINF: -1 tvg-chno = "11" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title = "ARGENTINA", TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+ 
+#EXTINF: -1 tvg-id = "https://www.elnueve.com.ar/programacion/" tvg-logo = "https://televisionlibre.net/img/logo_canal/Canal_9.png" group-title = "ARGENTINA", EL NUEVE
+https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE2NTA1MjMzLCJzZXNzaW9uIjoiMTgxLjkuMTMxLjU5Iiwid2hpdGVsaXN0IjpbIjE4MS45LjEzMS41OSJdfSwic2lnbmF0dXJlIjoiYzRlYjBjNGE5YTY2YTU2YzA3NWY2NDUwODllNjA0YTkxNGIzNWUxZCJ9
 
-#EXTINF: -1 tvg-logo = "http://srregio.net/img/img.php", REINO INFANTIL 24/7
-http://ipeteve.com/php/y.php?v=WzyeiiVQa_A&f.m3u8
-#EXTINF: 0 tvg-logo = "", ID de descubrimiento
-http://ipeteve.com/php/th.php?channel=id145d&f.m3u8
-#EXTINF: 0 tvg-logo = "", Francia 24
-https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
-#EXTINF: 0 tvg-logo = "", DW
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-#EXTINF: 0 tvg-logo = "", público de la NASA
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF: 0 tvg-logo = "", Milenio
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF: 0 tvg-logo = "", MegaTV (PR)
-https://livestream.lamusica.com/megatvlive/ngrp:megatvlive_all/.m3u8
-#EXTINF: 0 tvg-logo = "", Azteca UNO 
-https://dai.google.com/linear/hls/pa/event/asXufUKSSKisiLSMHR2BXA/stream/3b3095b0-458a-429d-a267-9ac9467e51bc:BRU/master.m3u8
-#EXTINF: 0 tvg-logo = "", Azteca 7
-https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/2dd7280d-f4dc-4dcf-9e01-9cea2fb3979b:BRU/master.m3u8
-#EXTINF: 0 tvg-logo = "", Vibe TV
-https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
-#EXTINF: 0 tvg-logo = "", Canal 6 Monterrey
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF: 0 tvg-logo = "", Canal 6 CDMX
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF: 0 tvg-logo = "", Teleritmo
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF: 0 tvg-logo = "", Canal ONCE
-https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
-#EXTINF: 0 tvg-logo = "", Quiero TV
-https://quierotvlive.tk/httplive/playlist.m3u8
-#EXTINF: 0 tvg-logo = "", NET TV
+#EXTINF: -1 tvg-logo = "https://televisionlibre.net/img/logo_canal/El_Trece.png" group-title = "ARGENTINA", El Trece
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/y27cg62dakhjo.m3u8?s=O9UnQsL7hdv7bcphHDACQQ&e=1616466432
+
+#EXTINF: -1 tvg-logo = "http://www.cableaudiovision.com.ar/grilla-web/canales/ciudadmagazine.png" group-title = "ARGENTINA", Revista Ciudad
+https://g4.mc-slo.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/Playlist.m3u8?sense=true
+ 
+#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgsqyh9Yw9y4IepPqB8C116Ltz9WvvpXkwsqtfCDlIZx-JjzlO" group-title = "ARGENTINA", NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF: 0 tvg-logo = "", Multivisión
-https://panel.dattalive.com/8250/8250/.m3u8
-#EXTINF: 0 tvg-logo = "", RCN
-https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
-#EXTINF: 0 tvg-logo = "", NexTV
-http://198.1.123.99:1935/live/myStream/.m3u8
-#EXTINF: 0 tvg-logo = "", Euro Latina TV
-https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
-#EXTINF: 0 tvg-logo = "", Latinos UP
-https://5b38ce71f1f00.streamlock.net/8082/8082/.m3u8
-#EXTINF: 0 tvg-logo = "", TOP Latino
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
-#EXTINF: 0 tvg-logo = "", Red ACS
-https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
-#EXTINF: 0 tvg-logo = "", TV de natación para adultos
-https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master.m3u8
-#EXTINF: 0 tvg-logo = "", Cachipum TV
-https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
-#EXTINF: 0 tvg-logo = "", Locomoción
-http://toonxtv.net/hls/loco_ch/stream.m3u8
-#EXTINF: 0 tvg-logo = "", 93.3 FM
-https://14543.live.streamtheworld.com/XHQQ_FM_SC
-#EXTINF: 0 tvg-logo = "", 690 RG AM
-https://19303.live.streamtheworld.com/RG690_SC
-#EXTINF: 0 tvg-logo = "", LA MEJOR 92.5 FM
-https://16643.live.streamtheworld.com/XHSROFM_SC
-#EXTINF: 0 tvg-logo = "", LA CALIENTE 94.1
-https://14943.live.streamtheworld.com/XETFM_SC
-#EXTINF: 0 tvg-logo = "", LA LUPE 105.3
-https://16693.live.streamtheworld.com/XHPAGFM_SC
 
-*** NACIONALES ***
-#EXTINF: -1, UNA VEZ NINOS (CLASES)
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=3315&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, AZTECA 7.3 (CLASES)
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=3316&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, AZTECA UNO HD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=7&p=3&k=srregio&f=.m3u8
-#EXTINF: -1, AZ CLIC HD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=11&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, LAS ESTRELLAS
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=17&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, CANAL 5
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=20&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, AZTECA 7
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=21&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, NU9VE
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=24&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, UNA VEZ
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=25&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, AZTECA UNO
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=27&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, TELEFORMULA SD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=32&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, MEXIQUENSE TV
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=44&p=3&k=srregio&f=.m3u8
-#EXTINF: -1, AZ CORAZON 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=70&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, AZ MUNDO
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=84&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, AZTECA 7 HD 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=317&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, AZTECA 7 HD (2)
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=322&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, IMAGEN TV  
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=2298&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, MULTIMEDIOS MTY
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=2305&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, APREDNE TV
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=401&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, MULTIMEDIOS CDMX
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=1253&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, NU9VE HD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=1783&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, LAS ESTRELLAS HD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=1784&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, CANAL 5 HD (2)
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=1785&p=3&k=srregio&f=.m3u8
-#EXTINF: -1, UNA VEZ HD 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=1942&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, MVS TV
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=2149&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, TVC
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=2156&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, CANAL 4 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=2274&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, CANAL 8
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=2307&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, TELEVISA PUEBLA
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=2312&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, A + 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=2316&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, TVMAS
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=2324&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, CANAL DEL CONGRESO
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=2331&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, MULTIMEDIOS CDMX
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=2352&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, IMAGEN TV HD  
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=2606&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, ACADEMIA
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=2703&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, MULTIMEDIOS HD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=2882&p=3&k=srregio&f=.m3u8  
+#EXTINF: -1 tvg-logo = "https://pbs.twimg.com/profile_images/947370100490895361/aKkq8IYy_400x400.jpg" group-title = "ARGENTINA", Multivision Salta
+http://panel.dattalive.com:1935/8250/8250/chunklist_w836342637.m3u8
+ 
+#EXTINF: -1 type = "stream" tvg-logo = "https://televisionlibre.net/img/logo_canal/Cronica_TV.png" group-title = "ARGENTINA", Cronica HD
+https://g5.mc-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
+ 
+#EXTINF: -1 type = "stream" tvg-logo = "https://buscador.cablevisionfibertel.com.ar/logos/3.png" group-title = "ARGENTINA", Canal 26
+http://200.115.193.177/live/26hd-720/chunklist_w2010074499.m3u8
+ 
+#EXTINF: -1 tvg-logo = "http://radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title = "ARGENTINA", Power HD
+http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/chunklist_w528506640.m3u8
+ 
+#EXTINF: -1 tvg-logo = "https://buscador.cablevisionfibertel.com.ar/logos/887.png" group-title = "ARGENTINA", Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1229773025_b1828000_sleng.m3u8
+ 
+#EXTINF: -1 tvg-id = "Music Top" tvg-name = "Music Top" tvg-logo = "https://televisionlibre.net/img/logo_canal/Music_Top.png" group-title = "ARGENTINA", Música Top
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/cd0hP5e.png" group-title = "ARGENTINA", Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w347127728_b1296000_sleng.m3u8
+#EXTINF: http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "https://televisionlibre.net/img/logo_canal/C5N.png" group-title = "ARGENTINA", C5N
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1616421462/ei/9U1YYIPyOraEobIPhrWS4Ao/ip/186.12.137.183/id/kt43n3r1jJo.1/source/yt_live_broadcastyes/requiressl/94 9417361% 2C9417362% 2C9430863 / hfr / 1 / playlist_duration / 30 / manifest_duration / 30 / maudio / 1 / vprv / 1 / go / 1 / nvgoi / 1 / keepalive / yes / fexp / 24001373% 2C24007246 / dover / 11 / itag / 0 / playlist_type / DVR / sparams / expirará% 2Cei% 2Cip% 2Cid% 2Csource% 2Crequiressl% 2Ctx% 2Ctxs% 2Chfr% 2Cplaylist_duration% 2Cmanifest_duration% 2Cmaudio% 2Cvprv% 2Cgo% 2Citag% 2Cplaylist_type / SIG / AOq0QJ8wRQIgSh1GU2j1D4oZdUWbLe7KRzd5rbMIElpqdW7uwo7KsQ0CIQCd-NOoXjCF-Nbsd4Lnijl7YUMGdqENdropCTP4aYcktw% 3D% 3D / archivo / index.m3u8
+
+#EXTINF: -1 tvg-logo = "https://televisionlibre.net/img/logo_canal/TN.png" group-title = "ARGENTINA", TN Notícias
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1616426781/ei/vWJYYNmuM_Hf1sQPpp-oyA0/ip/181.9.131.59/id/wHn1_QVoXGM.3/source/yt_yeslivexressl3086/ret_yeslive_broadcast30 txs / 9417361% 2C9417362% 2C9430863 / hfr / 1 / playlist_duration / 30 / manifest_duration / 30 / maudio / 1 / vprv / 1 / go / 1 / nvgoi / 1 / keepalive / yes / fexp / 24001373% 2C24007246 / dover / 11 / itag / 0 / playlist_type / DVR / sparams / expirará% 2Cei% 2Cip% 2Cid% 2Csource% 2Crequiressl% 2Ctx% 2Ctxs% 2Chfr% 2Cplaylist_duration% 2Cmanifest_duration% 2Cmaudio% 2Cvprv% 2Cgo% 2Citag% / archivo 2Cplaylist_type / SIG / AOq0QJ8wRAIgeilHyetHuL4XtmzPtlUGUTdM9ZkL9k0zKNzxxOwahwECIHVBEzdbiQ1lXd9aR62Tp56wnUJW5SfFV7z4fwo3ic3x / index. m3u8
+
+#EXTINF: -------------------------- INFANTIL -------------------- ---------------------
+
+#EXTINF: -1 tvg-logo = "https://www.canalipe.tv/sites/default/files/web/programas/logoipeplay/logo_chicosipe.png" group-title = "INFANTILES", Chikos ipe
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF: -1 tvg-logo = "https://televisionlibre.net/img/logo_canal/Pakapaka.png" group-title = "INFANTILES", Paka-Paka
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist.m3u8
+
+
+#EXTINF: -------------------------- DOCUMENTALES -------------------- ---------------------
+
+#EXTINF: -1 tvg-logo = "" group-title = "DOCUMENTALES", Discovery Channel
+http://5.128.90.97:1234/udp/239.1.5.1:1234
+
+#EXTINF: -1 tvg-logo = "" group-title = "DOCUMENTALES", Discovery h & h
+https://mg79qkb28x4up6a.ezcdn462.net:8443/hls/adtxiz8zv.m3u8?s=HrGe3QkO0hnLu5RwE3I8gQ&e=1616360077
+
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png" group-title = "DOCUMENTALES", ENCUENTRO
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist.m3u8
+
+#EXTINF: -1 tvg-id = "NatGeo.mx" tvg-name = "Natgeo" tvg-logo = "" group-title = "DOCUMENTALES", National Geographic
+https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/kdpyrp6kgiaf2sc.m3u8?s=Q30CcgLEhOJz5Gp9Cks1Nw&e=1615383578
+
+#EXTINF: -1 tvg-id = "AnimalPlanet.mx" tvg-name = "Animal Planet" tvg-logo = "" group-title = "DOCUMENTALES", Animal Planet
+https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/zfwban4sppn0.m3u8?s=14bd3uDe3g7JhqXFHORpiQ&e=1615383612
+
+
+#EXTINF: -------------------------- INTERNACIONAL -------------------- ---------------------
+
+#EXTINF: -1 tvg-logo = "http://adminweb.onlycable.net/img/Canale/small/Galicia-TV/Galicia-TV_.jpg" group-title = "INTERNACIONAL", TV GALICIA	
+http://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "https://televisionlibre.net/img/logo_canal/Gen.png" group-title = "INTERNACIONAL", GEN
+https://rds3gen.desdeparaguay.net/gentv/gentv_int_alta/chunklist_w645922347.m3u8?k=f69a0a36916a00ac4ca567d97283fd6b2bc51ca5c749260a7818d33d0e1ce4b9&ex36439
 
 
 
+#EXTINF: -------------------------- DEPORTES -------------------- ---------------------
+
+
+#EXTINF: -1 tvg-id = "612DTS2.ar" tvg-name = "DIRECTV SPORTS" tvg-logo = "https://pbs.twimg.com/profile_images/969311694790021120/AhXbomVG_400x400.jpg" group-title = " DEPORTES ", DIRECTV SPORTS
+https://telerium.digital/ingest02/71388.m3u8?sf=NlFvVm50UUlWSQ==&token=i5D_S87p-DYh72qnvPQSYw&expires=1615362347&rnd=71388
+
+#EXTINF: -1 tvg-name = "ESPN" tvg-logo = "" group-title = "DEPORTES", ESPN
+https://sv.tsnt.xyz/espn/espn1o_sur_c.m3u8?161532721
+
+
+#EXTINF: -1 tvg-name = "ESPN 2" tvg-logo = "https://www.avcomm.com.au/wp-content/uploads/2017/07/espn2-colour.png" group-title = "DEPORTES", ESPN 2
+https://sv.tsnt.xyz/espn/espn2o_sur_c.m3u8?161524813
+
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title = "DEPORTES", Fox Sports Premium
+https://content.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343.m3u8?cqs=ATV3p3O5_iGqSERrFlxQaxZ36paw81z_WoUPFPJ9z_ddGM5yOsZtxy5xSFvEPYkAyaIHvzOJJ7_RZqewj1CyKOobaofbRaCYDJCLeXUG8dtDjiv9LyeUPfWlqdFt7dwtTx2bFvAFi8inFuFRiG2fmGMICPpHT0UU-Nc4x8ifXPoiS2QP4BnsXtcTc8x3zExU8H3HATHAdyFyyfn1XmzwPirCuhfZlZ7KWgDm_o1gv_ZkbQfxU0ZJXu3eejbeBeZSvhzFsG9OFCMBtu6SCmoGtqeHcw5rWA78OE1yc75M1huoNiRUV2Gw8yqXE9mPJ_Pg2d1BRrveGEt46Gl5jXF_4m3bSzkwBuu7hOwlc7hEowvC4Nh42rkjksX5_pNQG4a5g6MMHJq3oEXfeXJDBp7mFEpUTWGRwS0yB7r7FakDVPb2PIZY2sGZlWXcqhcboOYFR38Jotssu-BcEAdT3si_Mw==&kid=7e62bb2a550343b5a8b7b48e63cc22bf
+
+#EXTINF: -1 tvg-logo = "https://pbs.twimg.com/media/DRnVgIfXcAE_0w3.jpg" group-title = "DEPORTES", TNT Sports
+https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/master.m3u8?hdnea=st=1616460112~exp=1616460712~acl=/*~hmac=86a7ba47bedd1dbca37d6d1f41a5d142bdeb10582fc258
+
+#EXTINF: -1 tvg-logo = "https://bc.marfeel.com/statics/www.tycsports.com/index/logo.png" group-title = "DEPORTES", TyC Sports
+https://content.jwplatform.com/videos/ubIUxrYq-640.m3u8
 
 
 
-*** INFANTILES ***
-#EXTINF: -1, TOONCAST
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=108&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, DISCOVERY KIDS
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=109&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, NICK
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=110&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, DISNEY XD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=111&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, RED DE DIBUJOS ANIMADOS
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=112&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, CANAL DISNEY
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=113&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, BOOMERANG
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=115&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, BABY TV 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=116&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, NICK JR
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=117&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, DISNEY JR
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=118&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, NICKTOONS SD 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=1708&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, BEBÉ PRIMERO
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=1984&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, NICK 2  
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=2147&p=3&k=srregio&f=.m3u8
-#EXTINF: -1, NAT GEO KIDS  
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=2373&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, BIT ME  
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=2591&p=3&k=srregio&f=.m3u8
-
-*** CINE ***
-#EXTINF: -1, A3CINE 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=3112&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, TBS SD  
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=81&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, DE PELICULA + 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=121&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, DORADO +
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=122&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, DORADO
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=123&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, BORDE DORADO
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=124&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, TNT 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=126&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, TCM
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=128&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, ESPACIO
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=129&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, AMC 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=131&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, ESTUDIO UNIVERSAL
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=132&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, me senté  
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=135&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, CANAL EUROPA 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=136&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, PELÍCULAS Y ARTES
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=137&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, FXM
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=138&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, FXM SD 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=332&p=3&k=srregio&f=.m3u8
-#EXTINF: -1, SERIE FOX
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=139&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, MORBIDO
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=140&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, PELÍCULAS DE FOX 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=146&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, CINECANAL
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=149&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, CINEMAX 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=158&p=3&k=srregio&f=.m3u8
-#EXTINF: -1, AMC  
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=328&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, DE PELICULA SD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=335&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, ACCIÓN DE ZORRO
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=336&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, CANAL DE PARAMOUNT 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=1726&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, FOX CINEMA SD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=1729&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, FOX CLASSICS SD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=1732&p=3&k=srregio&f=.m3u8
-#EXTINF: -1, AZ CINEMA 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=1787&p=3&k=srregio&f=.m3u8 
-
-*** ENTRETENIMIENTO ***
-#EXTINF: -1, TELEMUNDO INTERNACIONAL HD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=85&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, ZORRO  
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=46&p=3&k=srregio&f=.m3u8
-#EXTINF: -1, SONY  
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=48&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, WARNER  
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=52&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, E!
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=55&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, UNIVERSAL
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=57&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, SYFY
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=59&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, FX
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=60&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, A&E
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=62&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, AXN
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=64&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, SD UNICABLE
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=66&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, SUNDANCE TV
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=69&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, SERIE TNT
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=71&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, GLITZ
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=76&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, GOURMET 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=74&p=3&k=srregio&f=.m3u8
-#EXTINF: -1, VIDA DE ZORRO
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=77&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, DISTRITO COMEDIA SD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=78&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, TRUTV
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=79&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, TL NOVELAS SD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=83&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, DE POR VIDA 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=94&p=3&k=srregio&f=.m3u8
-#EXTINF: -1, ANTENA 3
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=199&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, FOX HD 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=201&p=3&k=srregio&f=.m3u8
-#EXTINF: -1, WARNER HD 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=205&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, UNIVERSAL HD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=207&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, FX HD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=209&p=3&k=srregio&f=.m3u8
-#EXTINF: -1, TRUTV HD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=215&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, HOLA TV HD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=219&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, COMEDIA CENTRAL
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=340&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, COMEDIA CENTRAL SD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=341&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, UNICABLE
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=1499&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, MAS CHIC
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=1842&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, A3SERIES
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=2113&p=3&k=srregio&f=.m3u8 
-
-*** DEPORTES ***
-#EXTINF: -1, ESPN + 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=167&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, ESPN 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=168&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, ESPN 2
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=169&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, DEPORTES DE ZORRO
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=170&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, FOX SPORTS 2
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=172&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, TUDN
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=174&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, FOX SPORTS 3 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=178&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, GOLF
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=179&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, AYM DEPORTES
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=180&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, ESPN 3 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=345&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, TUDN HD (2)
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=1049&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, ADRENALINA SPORTS HD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=1799&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, LAS
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=2089&p=3&k=srregio&f=.m3u8
-#EXTINF: -1, HAVOC
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=2148&p=3&k=srregio&f=.m3u8
-#EXTINF: -1, TVC DEPORTES
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=2157&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, CLARO SPORTS HD  
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=2564&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, FUEL TV HD 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=2587&p=3&k=srregio&f=.m3u8 
-
-*** CULTURALES ***
-#EXTINF: -1, ID DE DESCUBRIMIENTO
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=2376&p=3&k=srregio&f=.m3u8  
- #EXTINF: -1, GARAJE TV 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=75&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, CANAL DE DESCUBRIMIENTO
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=86&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, PLANETA ANIMAL
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=2378&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, HISTORIA
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=89&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, NAT GEO  
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=91&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, NAT GEO SALVAJE
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=92&p=3&k=srregio&f=.m3u8
-#EXTINF: -1, DISCOVERY THEATRE
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=95&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, H&H
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=96&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, TLC
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=97&p=3&k=srregio&f=.m3u8
-#EXTINF: -1, CIENCIA DEL DESCUBRIMIENTO  
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=98&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, CIVILIZACIÓN DE DESCUBRIMIENTO
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=99&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, DISCOVERY WORLD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=101&p=3&k=srregio&f=.m3u8
-#EXTINF: -1, TVE
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=198&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, COMPRAS
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=1943&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, RED DE ALIMENTOS 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=2145&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, ESTRELLA TVE 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=2375&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, DISCOVERY TURBO
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=2379&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, TRANSMISIÓN DE CURIOSIDAD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=2594&p=3&k=srregio&f=.m3u8  
-
-*** MÚSICA ***
-#EXTINF: -1, MTV EN VIVO
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=211&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, MTV
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=212&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, MTV LLEGA A SD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=213&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, VH1 CLASSIC SD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=214&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, VH1 SD 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=217&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, TELEHIT URBANO SD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=218&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, TELEHIT +
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=220&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, BANDAMAX SD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=221&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, AZ CLIC
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=223&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, VH1 HD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=334&p=3&k=srregio&f=.m3u8  
+#EXTINF: -------------------------- ENTRETENIMIENTO -------------------- ---------------------
 
 
-*** NOTICIAS ***
-#EXTINF: -1, FOROTV HD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=4&p=3&k=srregio&f=.m3u8
-#EXTINF: -1, FOROTV SD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=19&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, ADN40
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=40&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, ADN 40 HD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=184&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, CNN
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=185&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, CNN SD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=186&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, CNN Ñ SD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=187&p=3&k=srregio&f=.m3u8
-#EXTINF: -1, WOBI 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=102&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, FOXN EWS
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=188&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, BLOOMBERG 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=190&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, BBC SD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=191&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, AL JAAZERA 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=192&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, NTN 24
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=194&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, JUSTICIA TV 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=196&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, HLN
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=197&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, DW 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=203&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, RT
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=999&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, MILENIO HD
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=1250&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, MILENIO SD 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=1252&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, EXCELSIOR TV
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=1449&p=3&k=srregio&f=.m3u8  
-#EXTINF: -1, EL FINANCIERO HD 
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=1649&p=3&k=srregio&f=.m3u8  
- #EXTINF: -1, RT ESPAÑOL
-http://ipeteve.com/php/SR_REGIO010321/tp.php?c=2091&p=3&k=srregio&f=.m3u8 
-#EXTINF: -1, FRANCIA 24
-http://ipeteve.com/php/SR_REGIO010321/tp.php? 
+#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdRFu3N8CjNiFxRqrWqNHRAWJJ8ROhDN8SKE5mLzE_oJ4NXP4" group-title = "ENTRETENIMION"
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" group-title = "ENTRETENIMIENTO", FASHION TV MIDNITE
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF: -1 tvg-logo = "https://televisionlibre.net/img/logo_canal/Retro_Music_TV.png" group-title = "ENTRETENIMIENTO", MUSICA RETRO
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "" group-title = "ENTRETENIMIENTO", RETRO PLUS
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "https://televisionlibre.net/img/logo_canal/MTV.png" group-title = "ENTRETENIMIENTO", MTV
+https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/1ojmxycsqiiy8.m3u8?s=KsKSoH5p5BMyM10HPlJ6eQ&e=1615384892
+#EXTINF: http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
+
+#EXTINF: -1 group-title = "ENTRETENIMIENTO", M2O TV (ITALIA)
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF: -1 título-grupo = "ENTRETENIMIENTO", RADIO MONTECARLO TV
+http://fms.105.net:1935/live/rmc1/playlist.m3u8
+
+
+
+#EXTINF: -------------------------- CINE -------------------- ---------------------
+
+#EXTINF: -1 tvg-id = "Cinecanal.mx" tvg-name = "Cinecanal" tvg-logo = "https://televisionlibre.net/img/logo_canal/Cinecanal.png" group-title = "CINE", Cinecanal
+https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/ymv0a1aobkxuf.m3u8?s=NP9MuGqlbYoLARk-C9SCJQ&e=1615384824
+
+#EXTINF: -1 tvg-id = "Cinemax.mx" tvg-name = "Cinemax" tvg-logo = "https://televisionlibre.net/img/logo_canal/Cinemax.png" group-title = "CINE", Cinemax
+https://mg79qkb28x4up6a.ezcdn462.net:8443/hls/ztv7sh.m3u8?s=H858XD0CicnFE7SrOK3vMw&e=1616378066
+
+#EXTINF: -1 tvg-id = "FX.mx" tvg-name = "FX" tvg-logo = "https://www.saladeespera.com.pa/wp-content/uploads/2017/12/fx. jpg "título-grupo =" CINE ", FX
+https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/3cuvpp5n.m3u8?s=_2VEhEcUynnskOzoepO60Q&e=1615384746
+
+#EXTINF: -1 título-grupo = "CINE", HBO
+https://a24m9h4369execu7.ezcdn383.net:8443/hls/lbqtn3.m3u8?s=NDanF6gnSO5M2D_lC6eWRw&e=1616440572
+
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title = "CINE", PARAMOUNT
+https://a24m9h4369execu7.ezcdn383.net:8443/hls/vwchy5d.m3u8?s=kFcyFh9e4hivzWnmT5e8FQ&e=1616440644
+
+#EXTINF: -1 tvg-id = "" tvg-name = "Studio Universal" tvg-logo = "https://cdn.mitvstatic.com/channels/cl_studio-universal_m.png" group-title = "CINE", Estudio Universal
+https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/d77wqro8917ua5z.m3u8?s=rL_dB-OcG0JhC2OOLBWt9g&e=1616395556
+
+#EXTINF: -1 tvg-logo = "http://puu.sh/nvrR5/1bb233b647.png" group-title = "ADULTOS", Miami TV
+#EXTINF: http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
