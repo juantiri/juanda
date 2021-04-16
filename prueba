@@ -1,11 +1,181 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:19
-#EXT-X-MEDIA-SEQUENCE:9545
-#EXT-X-DISCONTINUITY-SEQUENCE:0
-#EXTINF:12.2,
-media_w1535730648_9545.ts
-#EXTINF:5.867,
-media_w1535730648_9546.ts
-#EXTINF:17.233,
-media_w1535730648_9547.ts
+EXTM3U
+ 
+#EXTINF:-1,RCN TV
+https://59ce1298bfb98.streamlock.net/rcntv/rcntv/playlist.m3u8
+#EXTINF:-2,NPY
+http://edge02-fdo-py.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-video=3000000-audio_20000=144800.m3u8 
+#EXTINF:-3,TVS
+https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8?k=1d25209afd7c9b0e4898d35c8295d449ff87b42c53ea4da38aae4d2d9614c9a7&exp=1611679347
+#EXTINF:-4,TELEFUTURO
+http://edge02-fdo-py.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-video=3000000-audio_20000=144800.m3u8
+#EXTINF:-5,PARAVISIÓN
+http://edge02-fdo-py.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-video=3000000-audio_20000=144800.m3u8
+#EXTINF:-6,MI TV
+https://tigocloud.desdeparaguay.net/mitv/mitv/chunklist_w680215671.m3u8
+#EXTINF:-7,VISIÓN VILLARRICA
+http://inliveserver.com:1935/8312/8312/playlist.m3u8
+#EXTINF:-8,UNICANAL
+http://edge02-fdo-py.cvattv.com.ar/live/c5eds/UNICANAL_C4/verimatrix_rotating_FTA/UNICANAL_C4-video=3000000-audio_20000=144800.m3u8
+#EXTINF:-9,SNT
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE1MTc0OTI0LCJzZXNzaW9uIjoiMTgxLjEyNi4xOTQuMTMzIiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMTk0LjEzMyJdfSwic2lnbmF0dXJlIjoiMDU1YjliMDE4NTA3YWU0ODMzMWE4MmMwODUzM2Y2MzBmZDEwMTQwOSJ9
+#EXTINF:-10,SUR
+http://edge02-fdo-py.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=3000000-audio_20000=144800.m3u8
+#EXTINF:-11,LATELE
+http://edge02-fdo-py.cvattv.com.ar/live/c5eds/LA_TELE_C4/verimatrix_rotating_FTA/LA_TELE_C4-video=1532000-audio_20000=144800.m3u8
+#EXTINF:-12,C9N
+http://edge02-fdo-py.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4-video=3900000-audio_20000=144800.m3u8
+#EXTINF:-13,TRECE
+http://edge02-fdo-py.cvattv.com.ar/live/c5eds/RPC_C4/verimatrix_rotating_FTA/RPC_C4-video=3000000-audio_20000=144800.m3u8
+
+#EXTINF:-14,PARAGUAY TV
+http://nextplayparaguay.info:25461/live/MYTVITAUGUA/QLcSmM3Cfs/2.m3u8
+https://live-ak.vimeocdn.com/exp=1615331725~acl=%2Fd56ce639-4563-48ed-b1ae-0e4a21f6c3e5%2F%2A~hmac=c0023af89d84587d2a6b00dfd32af2906508a244982feb3ffb3c5a48f32789fd/d56ce639-4563-48ed-b1ae-0e4a21f6c3e5/chunklist_b416000.m3u8
+
+#EXTINF:-15,ABC TV
+http://edge02-fdo-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4-video=3000000-audio_20000=144800.m3u8
+#EXTINF:-16,CENTRAL TV
+http://workingsolutionparaguay.store/hls/centralparaguaytv.m3u8
+#EXTINF:-17,GEN
+http://daleplay.biz:8080/live/maite/maite/1062.m3u8
+#EXTINF:-18,RCC
+https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
+#EXTINF:-19,SUCESO TV
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
+#EXTINF:-20,KOA TV
+https://panel.dattalive.com/8028/8028/playlist.m3u8
+#EXTINF:-21,SOMOS DEL ESTE TV
+https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
+#EXTINF:-22,VAUDEVILLE TV
+https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
+#EXTINF:-23,ESTACIÓN CRISTAL TV
+https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
+#EXTINF:-24,FARRA PLAY
+http://159.203.148.226/live/farra_low.m3u8
+#EXTINF:-25,INTEGRACIÓN TV
+http://nextplayparaguay.live/hls/integraciontv.m3u8
+#EXTINF:-26,CHORE TV
+http://nextplayparaguay.live/hls/guajayvifm.m3u8
+#EXTINF:-27,GCV CANAL 10 GUAJAYVI
+http://nextplayparaguay.live/hls/canal10.m3u8
+#EXTINF:-28,UGA TV
+https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
+#EXTINF:-29,CABLEMÁS
+https://59ce1298bfb98.streamlock.net:443/cablemas/cablemas/playlist.m3u8
+#EXTINF:-2001,RADIO ASUNCIÓN
+https://59ce1298bfb98.streamlock.net/asuncion1250/asuncion1250/chunklist_w2001769688.m3u8
+#EXTINF:-30,OVACIÓN
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-31,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-32,EL GARAGE TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF:-33,DEPORTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m3u8
+#EXTINF:-34,AMÉRICA SPORTS
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1613413753/ei/GWkqYK60HoPWxQTi94SYBw/ip/181.126.194.133/id/1SmKEIpmcLU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAN9O6G715AJDJPJiN7GttuS_ltZh6aSaI6F7SvIHg6deAiB4Wig4UO_X9XfTQfTi2wo72pEwm0BposYUJqrbuRZ9RQ%3D%3D/file/index.m3u8
+#EXTINF:-35,MLB NETWORK
+https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-36,RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:-50,CACHIPUM TV
+https://tls.cdnz.cl/cachipuntv/live/chunklist_w1787285152.m3u8
+#EXTINF:-51,PAKA PAKA
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w190057400.m3u8
+#EXTINF:-52,LOCOMOTION
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-53,KANADE TV
+http://207.246.84.143:8080/hls/Kanade.m3u8
+#EXTINF:-53,PLUTO TV ANIME
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=02c02686-f692-11ea-abc9-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-53,PLUTO TV ANIME ACCIÓN
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9aa7b802-f692-11ea-abc9-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-54,AZTV
+http://animeloving.net/hls/stream.m3u8
+#EXTINF:-54,TOONIZAKI
+https://live.admefy.com/live/default/calm_amaranth_ec6b4.m3u8
+#EXTINF:-55,LOS SIMPSONS
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
+#EXTINF:-56,LOS SIMPSONS 2
+https://lavozdetucuman.com/simpsons.m3u8
+#EXTINF:-57,REAL MONSTERS
+https://videostreaming.cloudserverlatam.com/kids/kids/chunklist_w1539971601.m3u8
+#EXTINF:-58,EL CHAVO
+https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w925937130.m3u8
+#EXTINF:-59,PBS KIDS (Inglés)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-60,PEQUERADIO TV
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-61,PLUTO TV JUNIOR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=e5728363-f699-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-61,PLUTO TV KIDS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=22941a63-f69a-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-62,BOOMERANG CLÁSICO
+http://8.9.4.128:8080/hls/boomerangtv.m3u8
+#EXTINF:-62,NICK JR. CLUB
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=22941a63-f69a-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-64,NICK CLÁSICO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=4432f29e-f694-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-64,PLANETA KIDS
+https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-64,PLUTO TV SERIES RETRO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a9c516a2-cd13-4321-a812-3ab72b0db482&deviceLat=-33.0728&deviceLon=-68.4627&deviceMake=Chrome%20Mobile&deviceModel=Chrome%20Mobile&deviceType=web&deviceVersion=80.0.3987.162&includeExtendedEvents=false&sid=db5bac6c-046f-43a7-9933-a5a040378960&userId=&serverSideAds=true
+#EXTINF:-64,A3CINE
+http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+#EXTINF:-70,RETRO PLUS TV CINE
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+#EXTINF:-71,PELÍCULAS MANÍA
+http://lavozdetucuman.com/peliculas1.m3u8
+#EXTINF:-72,MI TV CINE
+http://162.244.80.176:8081/abr/stream/live/livestream_480p/chunks.m3u8
+#EXTINF:-73,FMTV
+https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w1605424459.m3u8
+#EXTINF:-74,FMTV 2
+https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/chunklist_w1362286339.m3u8
+#EXTINF:-75,FMTV 3
+https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/chunklist_w1675545244.m3u8
+#EXTINF:-76,CINE CLUB
+https://stmv1.zcastbr.com/cineclubtv/cineclubtv/chunklist_w541442211.m3u8
+#EXTINF:-77,MÁXIMA MOVIE
+http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/chunklist_w1678649134.m3u8
+#EXTINF:-78,WMS HD
+http://cm.hostlagarto.com:8081/wmserviceHD/wmservicehd.myStream/chunks.m3u8
+#EXTINF:-79,CINE.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w1950619080.m3u8
+#EXTINF:-801,FLIXTUBE
+https://panel.streamingtv-mediacp.online:1936/8054/8054/.m3u8
+#EXTINF:-80,WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:-81,COLOSAL TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w2104890955.m3u8
+#EXTINF:-82,INFINITA TV PREMIUM
+https://rtmp02.portalexpress.es/infinitatv/infinitatv/chunklist_w527562519.m3u8
+#EXTINF:-90,ZEE MUNDO
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+#EXTINF:-91,LATINOS UP
+https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1928770453.m3u8
+#EXTINF:-100,BELEVISIÓN (Chile)
+http://v2.tustreaming.cl/belevision/index.m3u8
+#EXTINF:-101,TVN (Chile)
+http://unlimited10-cl.dps.live/tvn/tvn.smil/tvn/livestream1/chunks.m3u8
+#EXTINF:-102,HUASCO TV (Chile)
+https://paneltv.online:1936/8062/8062/playlist.m3u8
+#EXTINF:-103,ENFOQUE DIGITAL (Chile)
+https://Stmv1.zcastbr.com/edtvchile/edtvchile/playlist.m3u8
+#EXTINF:-104,QUINTA TV (Chile)
+https://livefocamundo.com:8081/8164/index.m3u8
+#EXTINF:-105,CANAL 74 TV (Chile)
+https://Stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
+#EXTINF:-106,LATINO 54 TV (Chile)
+http://190.3.169.119:8080/latina/latina/playlist.m3u8
+#EXTINF:-120,TELERED (Costa Rica)
+http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
+#EXTINF:-121,TELESUR (Costa Rica)
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-122,TICAVISIÓN (Costa Rica)
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-123,SARAPIQUÍ TV (Costa Rica)
+http://209.126.105.158:1935/stv/web/playlist.m3u8
+#EXTINF:-124,TELESISTEMA (Costa Rica)
+http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w1494491629.m3u8
+#EXTINF:-130,TELESISTEMA (Rep. Dom.)
+https://ss5.domint.net:3016/tv11_str/canal11/chunklist_w42154415.m3u8
