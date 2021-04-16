@@ -179,3 +179,217 @@ http://209.126.105.158:1935/stv/web/playlist.m3u8
 http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w1494491629.m3u8
 #EXTINF:-130,TELESISTEMA (Rep. Dom.)
 https://ss5.domint.net:3016/tv11_str/canal11/chunklist_w42154415.m3u8
+#EXTINF:-131,TELENORD 8 (Rep. Dom.)
+http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist.m3u8
+#EXTINF:-132,TELENORD 10 (Rep. Dom.)
+http://newyorkstream.ddns.net:5854/telenord10/telenord10/chunklist.m3u8
+#EXTINF:-133,TELENORD 12 (Rep. Dom.)
+http://newyorkstream.ddns.net:5854/telenord12/telenord12/chunklist.m3u8
+#EXTINF:-140,LOVE NATURE EN ESPAÑOL
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+#EXTINF:-150,ENCUENTRO
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w1733579940.m3u8
+#EXTINF:-151,MIRADOR
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w678055608.m3u8
+#EXTINF:-152,VIAJAR
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0028
+#EXTINF:-169,PAX TV
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1735000.m3u8
+#EXTINF:-170,LA VOZ DE MARÍA TV
+https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w567330199.m3u8
+#EXTINF:-171,EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8
+#EXTINF:-172,LA SAGRADA FAMILIA TV
+https://5b474ed5ea4c8.streamlock.net/1691/1691/chunklist_w795822853.m3u8
+#EXTINF:-173,MARÍA VISIÓN
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
+#EXTINF:-174,ESNE TV
+https://zypelive-lh.akamaihd.net/i/default_1@44045/master.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=601202c295243c00016e587f&dw=10800&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1611879490%7Eacl%3D%2F*%4044045%2F*%7Ehmac%3D2637aa9afeaaf6b7163d50dbbd0ba206060910b1237ff724e144268c8273c289
+#EXTINF:-175,ORBE 21
+https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
+#EXTINF:-199,5RTV (Arg.)
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+#EXTINF:-200,GEN TV (Arg.)
+https://videohd.live:19360/8010/8010.m3u8
+#EXTINF:-202,CINCO TV (Arg.)
+https://59537faa0729a.streamlock.net/cincotv/cincotv/chunklist_w1461023046.m3u8
+#EXTINF:-203,AMÉRICA TV TUCUMÁN (Arg.)
+http://45.6.4.154/americatuc/vivo.m3u8
+#EXTINF:-204,9 LINK RESISTENCIA (Arg.)
+http://www.coninfo.net:1935/9linklive/live/chunklist_w1642129274.m3u8
+#EXTINF:-205,CANAL 4 JUJUY (Arg.)
+http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1604822537_b121000.m3u8
+#EXTINF:-206,TELEMAX (Arg.)
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b1828000_sleng.m3u8
+#EXTINF:-207,NET TV (Arg.)
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-208,TV PÚBLICA FUEGUINA (Arg.)
+https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
+#EXTINF:-209,CANAL 9 SANTA CRUZ (Arg.)
+https://live.canalnueve.tv/canal.m3u8
+#EXTINF:-210,CANAL 13 LA RIOJA (Arg.)
+https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/chunklist_w349212570.m3u8
+#EXTINF:-211,CANAL 8 CATAMARCA (Arg.)
+https://5975e06a1f292.streamlock.net:4443/c8/c8/chunklist_w205858764.m3u8
+#EXTINF:-212,KZO (Arg.)
+http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_360p/index.m3u8
+#EXTINF:-213,CHACO TV (Arg.)
+https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/chunklist_w1837024863.m3u8
+#EXTINF:-214,CANAL 13 SAN LUÍS (Arg.)
+https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/chunklist_w1940570986_b581072.m3u8
+#EXTINF:-215,CANAL 29 QUILMES VISIÓN (Arg.)
+http://inliveserver.com:1935/8386/8386/chunklist_w237176165.m3u8
+#EXTINF:-216,CANAL 12 TARTAGAL (Arg.)
+https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/chunklist_w354333646.m3u8
+#EXTINF:-217,LA VOZ DE TUCUMÁN (Arg.)
+http://lavozdetucuman.com/lavozdetucumantv.m3u8
+#EXTINF:-218,CANAL 7 JUJUY (Arg.)
+https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+#EXTINF:-219,CANAL 9 RÍO CUARTO (Arg.)
+https://streamcasthd.com:1936/canal9riocuartotv/smil:canal9riocuartotv.smil/playlist.m3u8
+#EXTINF:-220,CANAL 5 SANTA FÉ (Arg.)
+https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/playlist.m3u8
+#EXTINF:-221,CANAL 5 SANTA FÉ 2 (Arg.)
+https://5975e06a1f292.streamlock.net:4443/c5sf2/c5sf2/playlist.m3u8
+#EXTINF:-222,ARGENTINÍSIMA SATELITAL
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w1353448793_b1912000_sleng.m3u8
+#EXTINF:-223,TELEFÉ CLÁSICO (Arg.)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a9c516a2-cd13-4321-a812-3ab72b0db482&deviceLat=-33.0728&deviceLon=-68.4627&deviceMake=Chrome%20Mobile&deviceModel=Chrome%20Mobile&deviceType=web&deviceVersion=80.0.3987.162&includeExtendedEvents=false&sid=38279f58-67e9-4189-874f-bc6305cd9296&userId=&serverSideAds=true
+#EXTINF:-223,TELEFÉ SALTA (Arg.)
+https://tlfcapitalhls-lh.akamaihd.net/i/canal11salta_1@722934/master.m3u8?hdnea=st=1613306673~exp=1613483073~acl=/i/canal11salta_1@722934/*~hmac=99ef1d3a216b1d3e8a6ccdf07b411974c7497585865acdd26a52dd6eb7c5a6f5
+#EXTINF:-224,TELEFÉ NEUQUÉN (Arg.)
+https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea=st=1613307593~exp=1613483993~acl=/i/canal7neuquen_1@751158/*~hmac=fb2d9ade2b69270f2215b5f78ac22940927b2809904d1ac152cbfd23455a462f
+#EXTINF:-225,TELEFÉ TUCUMÁN (Arg.)
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea=st=1613307609~exp=1613484009~acl=/i/canal8tucuman_1@787002/*~hmac=556c73bf2528a0608b498e10a2ae6a15e3a61d4fb2aa8601391a3252f2f56ac5
+#EXTINF:-226,TELEFÉ MAR DEL PLATA (Arg.)
+https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1613307982~exp=1613484382~acl=/i/mdqdistri02_1@829747/*~hmac=8f036ea91315d6418d0c5cb1f542f5598f79b8a4fbc41f9219d6f6094b9db856
+#EXTINF:-227,TELEFÉ BAHÍA BLANCA (Arg.)
+https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1613262000~exp=1613438400~acl=/I/canal9bahiablanca_1@685725/*~hmac=56958252bb1bd6d315e05b8b82d487bfe11fad76320b94183a37b02ab7cb1593
+#EXTINF:-227,TELEFÉ CÓRDOBA (Arg.)
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1613307851~exp=1613484251~acl=/i/canal8cordoba_1@685726/*~hmac=d33e1bf653f09854fad86067a26f02503db07fb159bfa1f44593efe91ec0056b
+#EXTINF:-228,TELEFÉ SANTA FÉ (Arg.)
+https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1613307641~exp=1613484041~acl=/i/canal13santafe_1@751190/*~hmac=d90fdac45875c4c380a8e9153a34cfd9d91a81e45130c5c7bd41c6d503bc5b12
+#EXTINF:-229,TELEFÉ ROSARIO (Arg.)
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
+#EXTINF:-230,CANAL 3 FORMOSA (Arg.)
+https://stmvideo2.livecastv.com/agenfor/agenfor/chunklist_w1391664117.m3u8
+#EXTINF:-240,READY TV
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
+#EXTINF:-250,CÓRDOBA TV
+https://5b38ce71f1f00.streamlock.net/8376/8376/chunklist_w128615180.m3u8
+#EXTINF:-270,26 TV
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:-271,IP
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
+#EXTINF:-272,TN
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1612809449/ei/iTAhYN2bLaCQ1sQP_dub8AI/ip/181.126.194.133/id/wHn1_QVoXGM.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgei0FKsiQxwz3IPRqUxkyD47fOzX7tlgLp78yKjM6BR4CICH_hN05hwiiIUUMp8ahgZvZ3HG3rGQlpBXpYMLgqDXO/file/index.m3u8
+#EXTINF:-290,HISPAN TV
+https://live.presstv.com/live/smil:live.smil/chunklist_w1703495832_b644100_slen.m3u8
+#EXTINF:-291,TELESUR
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-292,RT EN ESPAÑOL
+https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
+#EXTINF:-293,FRANCE 24 EN ESPAÑOL
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
+#EXTINF:-294,EURONEWS EN ESPAÑOL
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1612384548/ei/xLQaYLnZHKSC-LAP89iS-Ao/ip/181.126.194.133/id/JbKgQhFlMdU.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgcQLNtKcGY0xiVMY7ygd-w9I8x-CAJsyFjocv5vbWeS4CIHAAK6rBgmQgC8s5GTyNig8Wkyip6RGlSujcyHQN2iW0/file/index.m3u8
+#EXTINF:-295,TVE 24H
+http://bit.ly/2Maxjhg?checkedby:iptvcat.com
+#EXTINF:-296,MILENIO
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-297,ADN40
+http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
+#EXTINF:-300,CGTN ESPAÑOL
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-301,DW
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-302,TV GALICIA
+http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8
+#EXTINF:-302,TV GALICIA AMÉRICA
+http://america-crtvg.flumotion.com/crtvg/america_med/chunks.m3u8
+#EXTINF:-303,EITB BASQUE
+https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
+#EXTINF:-320,ARIRANG
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-321,NHK WORLD JAPAN
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-340,THE WEATHER CHANNEL
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-341,CBS NEWS
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
+#EXTINF:-342,FOX NEWS
+https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
+#EXTINF:-400,PORTAL FOXMIX
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w275910026.m3u8
+#EXTINF:-401,M2O
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-403,MELODY CHANNEL
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunklist_b1398304.m3u8
+#EXTINF:-404,TELEMÚSICA
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/chunklist_b1398304.m3u8
+#EXTINF:-405,RETRO PLUS TV 1
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1271975205.m3u8
+#EXTINF:-406,RETRO PLUS TV 2
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w653594315.m3u8
+#EXTINF:-407,REWIND
+https://tls.cdnz.cl/rewindtv/rewindtv/chunklist_w1335500030.m3u8
+#EXTINF:-409,MIX 24-7
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8
+#EXTINF:-410,MIX 24-7 BALADAS
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8
+#EXTINF:-411,MIX 24-7 RETRO
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/4.m3u8
+#EXTINF:-412,MIX 24-7 TOP 100
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8
+#EXTINF:-413,MIX 24-7 CONCIERTOS
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/7.m3u8
+#EXTINF:-414,MIX 24-7 TROPICAL
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8
+#EXTINF:-415,MIX 24-7 PURO ROCK
+http://159.69.56.148:25461/live/PuroRock/PuroRock24-7.com/25.m3u8
+#EXTINF:-416,MIX 24-7 POP
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8
+#EXTINF:-417,MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1132959303_b2028000_sleng.m3u8
+#EXTINF:-418,ON RADIO K-POP
+https://tls.cdnz.cl/onradio4/live/chunklist_w1713996862.m3u8
+#EXTINF:-420,K-POP TV
+https://srv3.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-421,CMC
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF:-422,ZAPPING MUSIC
+https://zmlive.zappingtv.com/zm_free/zm.smil/chunklist_b1828000_sles.m3u8
+#EXTINF:-423,MÁXIMA FM
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/chunklist_w386150877.m3u8
+#EXTINF:-424,VIDEO TOUR CHANNEL
+http://k4.usastreams.com/videotour/videotour/chunklist_w1141796442.m3u8
+#EXTINF:-425,XTV MUSIC
+https://tls.cdnz.cl/xtvmusic/xtvmusic/chunklist_w1301350852.m3u8
+#EXTINF:-426,TELERITMO
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-427,BAJO CERO TV
+https://stmv.panel.mivideo.pro/bajocerotv/bajocerotv/chunklist_w1615161318.m3u8
+#EXTINF:-428,CANAL 38
+https://rtmp.info/canal38/envivo/chunklist_w1467177433.m3u8
+#EXTINF:-429,EUROLATINA
+https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
+#EXTINF:-430,MÁS CUMBIA TV
+https://live.siete.us:19360/mascumbiatvonline/mascumbiatvonline.m3u8
+#EXTINF:-431,TOP LATINO
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
+#EXTINF:-432,ÓRBITA TV
+https://5dcabf026b188.streamlock.net/orbitatv/livestream/chunklist.m3u8
+#EXTINF:-433,TV+ÉXITOS
+http://siglo21.dnsalias.com:8080/mylive/tvexitos/tracks-v1a1/mono.m3u8
+#EXTINF:-434,VIDEOROLA
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
+#EXTINF:-435,V2BEAT
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-436,WHAM TV
+https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8
+#EXTINF:-437,TV POP
+https://v4.tustreaming.cl/poptv/index.m3u8
+#EXTINF:-438,CLICK TV
+http://v2.tustreaming.cl/clicktv/index.m3u8
+#EXTINF:-439,THE RETRO CHANNEL
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
