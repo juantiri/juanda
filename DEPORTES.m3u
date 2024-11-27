@@ -1,0 +1,42 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1001Noites.br" tvg-logo="https://i.imgur.com/dWA9y2J.png" group-title="Shop",1001 Noites
+https://5156.pricesaskeloadsc.com/espn_premium/tracks-v1a1/mono.m3u8?token=2d276c808be41a2d5380d77e98b7e60c51962781-1b-1732756995-1732720995
+#EXTINF:-1 Win sport +
+https://24a.pricesaskeloadsc.com/winplus/tracks-v1a1/mono.m3u8?token=1686dc5ed6a7bd4034ebb65eb3da79b396588867-ff-1732758057-1732722057
+#EXTINF: -1 TYC SPORTS ONLINE
+https://ch03-04-11-tyc.vodgc.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+#EXTINF: -1 CANAL TNT SPORTS ONLINE 
+https://cale.pricesaskeloadsc.com/tntsports_argentina/tracks-v1a1/mono.m3u8?token=687948ffe8fe2f04b755ea4a1d9781bc51069bac-7a-1732758598-1732722598
+#EXTINF: -1 CANAL ESPN PREMIUM
+https://coeld.pricesaskeloadsc.com/espn_premium/tracks-v1a1/mono.m3u8?token=c12470ba085dead8331cde315081278424782749-4c-1732758707-1732722707
+#EXTINF: -1 CANAL ESPN PREMIUM
+https://off4.jismhaitokia.com:999/hls/espnar.m3u8?md5=hOEl12TOKjB2hPeKDi7dgA&expires=1732731768
+#EXTINF: -1 CANAL DIRECTV 
+https://deportes.slkdhfdhldeportes.com:8080/MTg2LjEuMTg2Ljgx/16_.m3u8?token=y8gt1ehTbl0qZ5MCuhdYHw&expires=1732739139
+#EXTINF: -1 CANAL DIRECTV 2
+https://cbado.pricesaskeloadsc.com/dsports_2/tracks-v1/mono.m3u8?token=bc475caa46653cfdfc804cc6c6f6baed2605ca13-fb-1732759927-1732723927
+#EXTINF: -1 CANAL ESPN I
+https://vadp.pricesaskeloadsc.com/espn1/tracks-v1a1/mono.m3u8?token=3da3f913d95f9d8fbeafd7a9d366d1989498d3de-45-1732760052-1732724052
+#EXTINF: -1 CANAL ESPN II
+https://57c.pricesaskeloadsc.com/espn2/tracks-v1a1/mono.m3u8?token=56858459e18f1e6ccd71670b9ecd921775619044-db-1732760141-1732724141
+#EXTINF: -1 CANAL ESPN III
+https://deportes.slkdhfdhldeportes.com:8080/MTg2LjEuMTg2Ljgx/15_.m3u8?token=ZAF8U8vnAuDA-UbbSXWDjw&expires=1732739665
+#EXTINF: -1 CANAL TUDN 
+https://deportes.slkdhfdhldeportes.com:8080/MTg2LjEuMTg2Ljgx/1_.m3u8?token=DrxwMrEr0LOu5XZW2ZvewA&expires=1732740088
+#EXTINF: -1 CANAL FOX PREMIUM
+https://deportes.slkdhfdhldeportes.com:8080/MTg2LjEuMTg2Ljgx/33_.m3u8?token=F4NLnTXA-J8kn8Zrcd3jQQ&expires=1732740177
+#EXTINF: -1 CANAL MOVISTAR
+https://deportes.slkdhfdhldeportes.com:8080/MTg2LjEuMTg2Ljgx/41_.m3u8?token=8zqLAc_xlMx8ajNr6M13xg&expires=1732740237
+#EXTINF: -1 DAZN MOTO GP
+https://deportes.slkdhfdhldeportes.com:8080/MTg2LjEuMTg2Ljgx/52_.m3u8?token=zhpTV3MJUwuaur_J8Eprzg&expires=1732740323
+#EXTINF: -1 DAZN F1
+https://deportes.slkdhfdhldeportes.com:8080/MTg2LjEuMTg2Ljgx/42_.m3u8?token=GYF0V_bTGn50lSb_lUzkwg&expires=1732740422
+#EXTINF: -1 LA LIGA
+https://deportes.slkdhfdhldeportes.com:8080/MTg2LjEuMTg2Ljgx/43_.m3u8?token=BfoFtfYfpD9yU874xACQeQ&expires=1732740480
+
+
+
+
+
+
+
